@@ -1,0 +1,11 @@
+genemark:
+  bin: /home/nprian/software/MetaGeneMark_linux_64/mgm/gmhmmp
+  mod_path: /home/nprian/software/MetaGeneMark_linux_64/mgm/MetaGeneMark_v1.mod
+hmmer:
+  bin: /srv/common/bin/hmmsearch
+  e_value_threshold: 0.00445
+  pvog_path: /data6/bio/metagenome_phages/Phage_hmms/pVOG/allpvoghmms
+phigaro:
+  threshold_max: 8.827586
+  threshold_min: 7.058859
+  window_len: 32
